@@ -1,6 +1,5 @@
-#Instalation
-needs to install pandas
-
-pip install pandas
-pip install selenium
-pip install openpyxl
+## Instalation
+The following packages must be installed:
+- pip install pandas
+- pip install selenium
+- pip install openpyxl
